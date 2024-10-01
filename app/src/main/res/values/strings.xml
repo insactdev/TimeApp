@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TimeApp</string>
+    <string name="empty_string"/>
+    <string name="couldnt_select_capital">Не удалось выбрать столицу</string>
+    <string name="couldnt_load_capitals">Не удалось загрузить список столиц</string>
+    <string name="ok">ОК</string>
+    <string name="choose_capital">Выбор столицы</string>
+</resources>
